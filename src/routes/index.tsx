@@ -237,6 +237,15 @@ function RouteComponent() {
               >
                 linkedin
               </a>
+
+              <span>•</span>
+
+              <a
+                href="https://github.com/coycoylaniba"
+                target="_blank"
+              >
+                github
+              </a>
             </div>
           </div>
         </Section>
