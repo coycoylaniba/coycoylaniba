@@ -38,10 +38,11 @@ function RouteComponent() {
 
           <div className="flex flex-1 flex-col items-center justify-center gap-4">
             <span className="text-center lg:max-w-1/2">
-              I'm a full stack developer who is passionate in producing efficient,
-              scalable and maintainable web, desktop and mobile applications. I
-              primarily use Next.js for web, Electron + React for desktop
-              applications, and React Native for mobile applications.
+              I'm a full stack developer who is passionate in producing
+              efficient, scalable and maintainable web, desktop and mobile
+              applications. I primarily use Next.js for web, Electron + React
+              for desktop applications, and React Native for mobile
+              applications.
             </span>
 
             {/* <span className="lg:max-w-1/2 text-center">---</span>
@@ -74,11 +75,19 @@ function RouteComponent() {
           <div className="flex flex-1 flex-col items-center justify-center gap-4">
             <div className="flex flex-col gap-1">
               <span className="text-center">Full Stack Developer</span>
+              <span className="text-center font-bold">Leodus Tech</span>
+              <span className="text-center text-xs opacity-70">
+                September 2025 - November 2025
+              </span>
+            </div>
+
+            <div className="flex flex-col gap-1">
+              <span className="text-center">Full Stack Developer</span>
               <span className="text-center font-bold">
                 Skyride Mobile Web App Solutions Company
               </span>
               <span className="text-center text-xs opacity-70">
-                Jan 2020 - Present
+                Jan 2020 - May 2025
               </span>
             </div>
 
@@ -240,10 +249,7 @@ function RouteComponent() {
 
               <span>•</span>
 
-              <a
-                href="https://github.com/coycoylaniba"
-                target="_blank"
-              >
+              <a href="https://github.com/coycoylaniba" target="_blank">
                 github
               </a>
             </div>
