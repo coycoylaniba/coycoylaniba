@@ -77,9 +77,11 @@ function RouteComponent() {
               <span className="text-center">Full Stack Developer</span>
               <span className="text-center font-bold">Leodus Tech</span>
               <span className="text-center text-xs opacity-70">
-                September 2025 - November 2025
+                Sep 2025 - Nov 2025
               </span>
             </div>
+
+            <span className="text-center">---</span>
 
             <div className="flex flex-col gap-1">
               <span className="text-center">Full Stack Developer</span>
